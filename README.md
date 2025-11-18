@@ -1,8 +1,8 @@
 # Unmaking the Everyday AI: A Design Inquiry into Research Tools and AI Nudge
 
-## Data and Text Mining Method
+Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch, DRS Submission, 2025.
 
-Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch
+## Data and Text Mining Method
 
 This repertory gives access to 5 csv file. Each lists the top keyword found in white papers or online pages published by platforms on responsible AI.
 Two different types of parameters are given: string (word), value (word frequency).
