@@ -1,6 +1,6 @@
 # unmaking-everyday-ai data
 
-Unmaking the Everyday AI: A Design Inquiry into Research Tools and AI Nudge. Text Mining Method
+## Unmaking the Everyday AI: A Design Inquiry into Research Tools and AI Nudge. Text Mining Method
 
 Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch
 
