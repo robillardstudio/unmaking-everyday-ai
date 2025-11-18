@@ -9,7 +9,7 @@ Two different types of parameters are given: string (word), value (word frequenc
 
 ## Summary
 
-| Source  | URL                                                                                                                                                                                        | Text Length (characters) | Tokens after lemmatization | Total unique words | Top 5 words                                    |
+| Source  | URL                                                                                                                                                                                        | Text length (characters) | Tokens after lemmatization | Total unique words | Top 5 words                                    |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ | -------------------------- | ------------------ | ---------------------------------------------- |
 | Oreilly | [https://www.oreilly.com/about/oreilly-approach-to-generative-ai.html](https://www.oreilly.com/about/oreilly-approach-to-generative-ai.html)                                               | 3919                     | 337                        | 217                | content, genai, expert, tool, work             |
 | Miro    | [https://help.miro.com/hc/en-us/articles/11869995720210-Miro-AI-whitepaper](https://help.miro.com/hc/en-us/articles/11869995720210-Miro-AI-whitepaper)                                     | 32269                    | 2878                       | 1053               | security, data, compliance, access, user       |
