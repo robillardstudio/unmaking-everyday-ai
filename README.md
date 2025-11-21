@@ -5,7 +5,7 @@ Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch, DRS Submission, 20
 ## Dataset and Text Mining Method
 
 This repertory includes 5 csv file, see [data](data). Each lists the top keyword found in white papers or online pages published by platforms on responsible AI.
-Two different types of parameters are given: string (word), value (word frequency). The table below summarizes the analysis. The Colab notebook devising the text mining method is also shared [here](drs-method.ipynb).
+Two different types of parameters are given: string (keyword), value (word frequency). The table below summarizes the analysis. The Colab notebook devising the text mining method is also shared [here](drs-method.ipynb).
 
 ## Summary
 
